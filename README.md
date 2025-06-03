@@ -4,7 +4,7 @@ Here’s a **Data Material Explanation** section you can add to your `README.md`
 
 ---
 
-### 📊 Data Material Explanation
+### Data Material Explanation
 
 #### Dataset: `Sample - Superstore.csv`
 
