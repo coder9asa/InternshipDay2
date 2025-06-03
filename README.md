@@ -1,6 +1,5 @@
 # InternshipDay2
 Data Visualisation
-Here’s a **Data Material Explanation** section you can add to your `README.md` for the `InternshipDay2` project based on the **Superstore dataset** commonly used in data visualization projects:
 
 ---
 
